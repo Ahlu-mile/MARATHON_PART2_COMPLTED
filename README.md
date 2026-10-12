@@ -89,7 +89,10 @@ Swagger UI is enabled in Development mode and lists every implemented endpoint w
 4. Builds the solution in Release mode.
 5. Runs all unit tests and uploads the results as a build artifact.
 
-**CI/CD green build screenshot:** Outstanding — insert a genuine screenshot of a successful GitHub Actions run here after pushing and confirming the workflow passes. Do not use a mock screenshot.
+**CI/CD green build screenshot:** Outstanding — 
+
+<img width="936" height="958" alt="Screenshot 2026-10-12 104354" src="https://github.com/user-attachments/assets/ef9b27fc-4170-46aa-a116-be88bb83661b" />
+
 
 ## Video Presentation
 
@@ -107,5 +110,6 @@ The video demonstrates the running API via Swagger, explains the code structure,
 - [ ] Record and upload your unlisted YouTube walkthrough - link it into this README.
 - [ ] Double check every endpoint is visible and testable in Swagger UI.
 - [ ] Review `docs/PART2_COMPLIANCE_AUDIT_AND_CHANGELOG.md` and complete every outstanding evidence item.
+
 
 # MARATHON_PART2_COMPLTED

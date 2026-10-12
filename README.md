@@ -68,7 +68,13 @@ This means Organiser functionality is never reachable by a Participant session a
    ```bash
    dotnet run
    ```
+5. Open the Swagger UI (it launches automatically in Development mode) at `https://localhost:7080/swagger` to see and test every endpoint.
 
+### Running the Unit Tests
+```bash
+dotnet test RaceDay.sln
+```
+Tests use an EF Core **InMemory** database (via `CustomWebApplicationFactory`), so they run without needing a real SQL Server connection - this is also what lets them run inside GitHub Actions.
 
 ## Swagger
 

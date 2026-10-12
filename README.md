@@ -4,7 +4,9 @@
 **Module:** PROG6212
 **Part:** 2 of 3 - RESTful API Development
 
+## System Description
 
+RaceDay is a full-stack, API-driven event management platform for the South African road running, walking, and cycling community. Part 1 planned the system (ERD, endpoint plan, SQL script). This Part 2 submission builds the RESTful API in ASP.NET Core that powers the system. The implementation follows the Part 1 plan except for documented deviations (`docs/Part2_Endpoint_Plan_Deviations.md`). See `docs/PART2_COMPLIANCE_AUDIT_AND_CHANGELOG.md` for a guide/rubric audit, the changes made, and the evidence still required before submission.
 
 
 ### Roles

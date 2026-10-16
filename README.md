@@ -96,20 +96,11 @@ Swagger UI is enabled in Development mode and lists every implemented endpoint w
 
 ## Video Presentation
 
-**YouTube (unlisted) link:** Outstanding — replace this placeholder with the real unlisted video URL after recording and uploading the presentation.
+**YouTube (unlisted) link:** https://youtu.be/rigf1rxLuz0?si=5fFRqju29z-nslhQ.
 
 The video demonstrates the running API via Swagger, explains the code structure, walks through authentication and session-based role enforcement, and shows the unit tests passing.
 
 ---
-
-### Submission checklist
-- [ ] Push this project (with 20+ meaningful commits) to your assigned GitHub repository.
-- [ ] Run `dotnet ef database update` locally and confirm the schema matches your Part 1 ERD/SQL.
-- [ ] Confirm all unit tests pass locally with `dotnet test`.
-- [ ] Push to `main` and confirm the Actions workflow goes green - screenshot it into this README.
-- [ ] Record and upload your unlisted YouTube walkthrough - link it into this README.
-- [ ] Double check every endpoint is visible and testable in Swagger UI.
-- [ ] Review `docs/PART2_COMPLIANCE_AUDIT_AND_CHANGELOG.md` and complete every outstanding evidence item.
 
 
 # MARATHON_PART2_COMPLTED
